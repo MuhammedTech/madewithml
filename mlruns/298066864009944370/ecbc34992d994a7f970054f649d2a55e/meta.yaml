@@ -1,0 +1,15 @@
+artifact_uri: mlflow-artifacts:/298066864009944370/ecbc34992d994a7f970054f649d2a55e/artifacts
+end_time: 1740145039988
+entry_point_name: ''
+experiment_id: '298066864009944370'
+lifecycle_stage: active
+run_id: ecbc34992d994a7f970054f649d2a55e
+run_name: logging_models
+run_uuid: ecbc34992d994a7f970054f649d2a55e
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1740145033724
+status: 4
+tags: []
+user_id: mukammedalimbet

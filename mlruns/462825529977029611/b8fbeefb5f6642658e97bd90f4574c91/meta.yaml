@@ -1,0 +1,15 @@
+artifact_uri: mlflow-artifacts:/462825529977029611/b8fbeefb5f6642658e97bd90f4574c91/artifacts
+end_time: 1740207826901
+entry_point_name: ''
+experiment_id: '462825529977029611'
+lifecycle_stage: active
+run_id: b8fbeefb5f6642658e97bd90f4574c91
+run_name: mercurial-seal-224
+run_uuid: b8fbeefb5f6642658e97bd90f4574c91
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1740207734969
+status: 3
+tags: []
+user_id: mukammedalimbet

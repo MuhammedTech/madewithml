@@ -1,0 +1,1 @@
+{'lr__C': <scipy.stats._distn_infrastructure.rv_continuous_frozen object at 0x179fb9b10>, 'lr__penalty': ['l2', 'l1']}

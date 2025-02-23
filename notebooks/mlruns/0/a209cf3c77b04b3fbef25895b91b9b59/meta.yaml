@@ -1,0 +1,15 @@
+artifact_uri: file:///Users/mukammedalimbet/personal_coding/madewithml/notebooks/mlruns/0/a209cf3c77b04b3fbef25895b91b9b59/artifacts
+end_time: 1740206743681
+entry_point_name: ''
+experiment_id: '0'
+lifecycle_stage: active
+run_id: a209cf3c77b04b3fbef25895b91b9b59
+run_name: logging_models
+run_uuid: a209cf3c77b04b3fbef25895b91b9b59
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1740206741175
+status: 3
+tags: []
+user_id: mukammedalimbet

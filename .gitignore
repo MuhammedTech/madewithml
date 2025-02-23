@@ -178,3 +178,6 @@ mlartifacts
 mlruns
 mlflow.db
 venv
+
+.notebooks/mlruns
+notebooks/mlruns

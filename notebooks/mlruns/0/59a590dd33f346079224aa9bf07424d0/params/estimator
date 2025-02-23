@@ -1,7 +1,0 @@
-Pipeline(steps=[('tfidf', TfidfVectorizer()),
-                ('to_dense',
-                 FunctionTransformer(accept_sparse=True,
-                                     func=<function <lambda> at 0x17626c5e0>)),
-                ('lr',
-                 LogisticRegression(class_weight='balanced', max_iter=200,
-                                    random_state=0, solver='saga', tol=0.01))])

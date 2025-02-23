@@ -1,3 +1,0 @@
-[('tfidf', TfidfVectorizer()), ('to_dense', FunctionTransformer(accept_sparse=True,
-                    func=<function objective.<locals>.<lambda> at 0x13a321990>)), ('lr', LogisticRegression(C=6.629925310010131, class_weight='balanced', max_iter=1000,
-                   penalty='l1', random_state=42, solver='liblinear'))]
